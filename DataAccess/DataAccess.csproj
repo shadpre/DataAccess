@@ -6,7 +6,11 @@
     <Nullable>enable</Nullable>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <PackageId>Tranborg.$(AssemblyName)</PackageId>
-    <Title>Traborg</Title>
+    <Title>Tranborg DataAccess</Title>
+	<Version>1.0.0.1</Version>
+	<Authors>Klavs Tranborg</Authors>
+	<Description>Tranborg DataAccess</Description>
+	<PackageTags>Tranborg DataAccess</PackageTags>	
   </PropertyGroup>
 
   <ItemGroup>
