@@ -7,15 +7,14 @@
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <PackageId>Tranborg.$(AssemblyName)</PackageId>
     <Title>Tranborg DataAccess</Title>
-	<Version>1.0.4</Version>
+	<Version>1.0.5</Version>
 	<Authors>Klavs Tranborg</Authors>
-	<Description>Tranborg DataAccess</Description>
+	<Description>Tranborg DataAccess. Provides a simple sql data access package</Description>
 	<PackageTags>Tranborg DataAccess</PackageTags>	
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Dapper" Version="2.1.35" />
-    <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="8.0.0" />
+    <PackageReference Include="Dapper" Version="2.1.35" />    
     <PackageReference Include="MySql.Data" Version="8.3.0" />
     <PackageReference Include="Npgsql" Version="8.0.2" />
     <PackageReference Include="System.Data.SqlClient" Version="4.8.6" />

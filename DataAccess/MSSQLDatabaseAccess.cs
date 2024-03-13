@@ -2,7 +2,7 @@
 using System.Data;
 using System.Data.SqlClient;
 
-namespace DataAccess
+namespace Tranborg.DataAccess
 {
     /// <summary>
     /// Class <c>MSSQLDataAccess</c> is a class that implements the <c>IDataAccess</c> interface.

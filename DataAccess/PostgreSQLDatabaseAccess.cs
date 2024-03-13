@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Dapper;
 using Npgsql;
-namespace DataAccess
+namespace Tranborg.DataAccess
 {
     /// <summary>
     /// Class <c>PostgreSQLDataAccess</c> is a class that implements the <c>IDataAccess</c> interface.

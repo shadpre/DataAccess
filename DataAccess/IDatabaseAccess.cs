@@ -1,5 +1,5 @@
 ﻿
-namespace DataAccess
+namespace Tranborg.DataAccess
 {
     public interface IDatabaseAccess
     {

@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using Dapper;
 using MySql.Data.MySqlClient;
 
-namespace DataAccess
+namespace Tranborg.DataAccess
 {
     /// <summary>
     /// Class <c>MySQLDataAccess</c> is a class that implements the <c>IDataAccess</c> interface.
